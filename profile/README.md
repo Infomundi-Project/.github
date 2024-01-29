@@ -5,6 +5,9 @@ At Infomundi, we believe in transparency. That's why we are thrilled to introduc
 
 | Version | Date       | Brief Description      | Authors        |
 | ------ | ---------- | ----------------------------- | ------------- |
+| 1.2.4 | 2023/01/29 | The 1.2.4 update brings significant enhancements aimed at improving user experience and website performance. Noteworthy are the transition to WebP format for images, the introduction of essential website pages, and a more interactive news page with comment functionality. Navigation has been streamlined with a sticky search bar and an intuitive country search feature. Additionally, the update focuses on mobile user experience and performance optimization by redesigning the home page layout and pruning unnecessary elements. Security has been bolstered with the implementation of a CSP and CSRF protection, enhancing the platform's overall security posture. | @InfomundiTeam |
+| 1.2.3 | 2023/01/10 | Version 1.2.3 introduces significant enhancements to user experience, notably in the news page presentation and search functionality. It features a more dynamic news layout, advanced search accuracy with auto-translation, and a more visually appealing interface with an updated logo. The release also includes a crucial security fix for the search feature and improvements in site navigation and data access through a new API endpoint. | @InfomundiTeam |
+| 1.2.2 | 2023/12/22 | Implemented lazy loading for news page images, improved cache script for more images, and enhanced navbar. Changed comments page cooldown to 5 seconds and accordion look. Enhanced session cookie security. No removals or fixes. | @InfomundiTeam |
 | 1.2.1 | 2023/12/21 | Added session remember option, light mode for homepage, authenticated user badge, country area ranking, and logout button. Removed old logo images. Fixed index display and comments page entry bugs. Implemented cooldown for comments form. | @InfomundiTeam |
 | 1.2.0 | 2023/12/19 | Introduced light mode, improved ticker functionality, added geopolitical placeholder. Removed unused resources. Fixed ticker and display issues. Enhanced password change page security. | @InfomundiTeam |
 | 1.1.9 | 2023/12/13 | Improved mobile compatibility for the ticker. Added crypto, currency, and index information to the homepage. Changed display of country stocks. Removed navbar return button for mobile users. Enhanced account creation spam prevention. Reduced password complexity. | @InfomundiTeam |
@@ -13,6 +16,79 @@ At Infomundi, we believe in transparency. That's why we are thrilled to introduc
 | 1.1.6 | 2023/11/24 | Implemented sleek accordion design with mobile detection, enriched news item details on comments page, streamlined navbar, and improved CLS. Changed source color, added placeholder text, revamped logo font, and relocated search bar. Removed outdated images, and fixed card height for mobile users. | @InfomundiTeam |
 | 1.1.5 | 2023/11/20 | Added error pages, code refactoring, email support, and comment blacklist. Changed theme color to black. Fixed return button on comments page. No removals or security changes.  | @InfomundiTeam |
 | 1.1.4 | 2023/11/17 | Revamped homepage layout. Added click tracking, user session stats, icons in comments. Improved cache script and added view count badges. Changed search bar and subtitle colors. Adjusted news page layout for smaller screens. Fixed search bug. No removals or security changes.  | @InfomundiTeam |
+
+---
+
+## Changelog 1.2.4 (2024/01/29)
+
+### Enhancements (6)
+1. **IME01:** Introduced a comprehensive footer section to the website for better navigation and information access.
+2. **IME02:** Upgraded news image delivery to next-gen WebP format with an optimized caching policy, significantly boosting site performance.
+3. **IME03:** Launched new informational pages: About Us, Our Team, Contact Us, and Policies, enhancing transparency and user engagement.
+4. **IME04:** Added functionality for users to preview and post comments specific to news stories directly on the news page, fostering community interaction.
+5. **IME05:** Enhanced the news page search bar by making it sticky in the navbar on desktop devices, improving user experience while scrolling.
+6. **IME06:** Refined country search on the home page for instant and more accurate results, even with minor typos (e.g., 'canda' leads to Canada).
+
+### Changes (1)
+1. **IMC01:** Redesigned the mobile view of the home page, positioning the statistics tab below the globe for a streamlined experience.
+
+### Removed (1)
+1. **IMR01:** Eliminated superfluous icons from the ticker to boost performance and reduce the website's DOM size.
+
+### Fixed (1)
+1. **IMF01:** Corrected a defect in the news page's search-with-translation feature, ensuring seamless functionality.
+
+### Security (2)
+1. **IMS01:** Instituted a Content Security Policy (CSP) to fortify website security against various types of attacks.
+2. **IMS02:** Integrated Cross-Site Request Forgery (CSRF) protection measures.
+
+---
+
+## 1.2.3 2024/01/10
+
+### Enhancements (8)
+- IME01: Improved user engagement by randomizing news content display on each page reload.
+- IME02: Enhanced search function accuracy, offering more relevant results.
+- IME03: Integrated auto-translation into the search feature, enhancing accessibility on the news page.
+- IME04: Redesigned news page layout for better clarity and conciseness.
+- IME05: Added descriptive headers to news stories, improving user navigation and quick access to story details.
+- IME06: Enhanced image display algorithm, resulting in more news stories featuring images.
+- IME07: Upgraded Infomundi logo design for better brand representation.
+- IME08: Launched new API endpoint (/api) for serving static data and managing actions like adding comments to stories.
+
+### Changed (4)
+- IMC01: Maintained visibility of older news posts during new cache updates.
+- IMC02: Implemented a new pagination system for countries with extensive news coverage.
+- IMC03: Relocated the theme change option to the account dropdown menu for improved accessibility.
+- IMC04: Updated the lazy load script for better performance.
+
+### Removed (0)
+- No items removed in this update.
+
+### Fixed (1)
+- IMF01: Several bug fixes.
+
+### Security (1)
+- IMS01: Addressed a vulnerability in the search function that could lead to Denial of Service (DoS) under certain conditions.
+
+
+## 1.2.2 2023/12/22
+
+### Enhancements (3)
+- IME01: Added lazy loading to images in the news page.
+- IME02: Enhanced cache script capabilities (you'll see more images in the feed now).
+- IME03: Big enhancement to the navbar. 
+
+### Changed (2)
+- IMC01: Changed cooldown from 10 to 5 seconds in the comments page.
+- IMC02: Changed the accordion look in the home page (dark theme).
+
+### Removed ()
+
+### Fixed ()
+
+### Security (1)
+- IMS01: Enhanced session cookie security.
 
 
 ## 1.2.1 2023/12/21
