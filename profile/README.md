@@ -5,6 +5,7 @@ At Infomundi, we believe in transparency. That's why we are thrilled to introduc
 
 | Version | Date       | Brief Description      | Authors        |
 | ------ | ---------- | ----------------------------- | ------------- |
+| 1.2.5 | 2024/02/15 | Version 1.2.5 introduces a comprehensive set of enhancements focused on improving the aesthetic, functionality, and user experience across the website. Notable updates include revamped authentication interfaces, enhanced form validations, and interactive features such as password strength indicators and profile picture uploads. The update also introduces important community-focused features like community policies and a fully functional comments section. Performance and usability have been further optimized through the bundling of resources and interface improvements. Additionally, this version takes significant strides in security with the enforcement of stricter encryption protocols and the remediation of critical vulnerabilities, ensuring a safer and more reliable platform for users. | @InfomundiTeam |
 | 1.2.4 | 2023/01/29 | The 1.2.4 update brings significant enhancements aimed at improving user experience and website performance. Noteworthy are the transition to WebP format for images, the introduction of essential website pages, and a more interactive news page with comment functionality. Navigation has been streamlined with a sticky search bar and an intuitive country search feature. Additionally, the update focuses on mobile user experience and performance optimization by redesigning the home page layout and pruning unnecessary elements. Security has been bolstered with the implementation of a CSP and CSRF protection, enhancing the platform's overall security posture. | @InfomundiTeam |
 | 1.2.3 | 2023/01/10 | Version 1.2.3 introduces significant enhancements to user experience, notably in the news page presentation and search functionality. It features a more dynamic news layout, advanced search accuracy with auto-translation, and a more visually appealing interface with an updated logo. The release also includes a crucial security fix for the search feature and improvements in site navigation and data access through a new API endpoint. | @InfomundiTeam |
 | 1.2.2 | 2023/12/22 | Implemented lazy loading for news page images, improved cache script for more images, and enhanced navbar. Changed comments page cooldown to 5 seconds and accordion look. Enhanced session cookie security. No removals or fixes. | @InfomundiTeam |
@@ -16,6 +17,40 @@ At Infomundi, we believe in transparency. That's why we are thrilled to introduc
 | 1.1.6 | 2023/11/24 | Implemented sleek accordion design with mobile detection, enriched news item details on comments page, streamlined navbar, and improved CLS. Changed source color, added placeholder text, revamped logo font, and relocated search bar. Removed outdated images, and fixed card height for mobile users. | @InfomundiTeam |
 | 1.1.5 | 2023/11/20 | Added error pages, code refactoring, email support, and comment blacklist. Changed theme color to black. Fixed return button on comments page. No removals or security changes.  | @InfomundiTeam |
 | 1.1.4 | 2023/11/17 | Revamped homepage layout. Added click tracking, user session stats, icons in comments. Improved cache script and added view count badges. Changed search bar and subtitle colors. Adjusted news page layout for smaller screens. Fixed search bug. No removals or security changes.  | @InfomundiTeam |
+
+---
+
+
+## Changelog 1.2.5 (2024/02/15)
+
+### Enhancements (12)
+1. **IME01:** Revamped the aesthetics of the sign in, sign up, and password change processes for a more visually appealing experience.
+2. **IME02:** Introduced client-side validation for sign up and sign in forms to improve user experience by providing immediate feedback.
+3. **IME03:** Implemented password strength indicators on sign up and password change forms to encourage the use of strong, secure passwords.
+4. **IME04:** Added a 'show password' option in forms, allowing users to check their input for accuracy.
+5. **IME05:** Fully activated the comments section, enabling interactive user discussions.
+6. **IME06:** Enabled registered users to upload personal profile pictures, enhancing user personalization.
+7. **IME07:** Launched a maintenance page feature to notify users of temporarily inaccessible pages or services.
+8. **IME08:** Introduced a cookie consent modal in compliance with privacy regulations.
+9. **IME09:** Established community policies to guide user interactions and ensure a respectful and safe online environment.
+10. **IME10:** Made significant improvements to the website's navigation bar for a more intuitive and user-friendly experience.
+11. **IME11:** Optimized website loading times by serving JavaScript and CSS files in a bundled, minified format.
+12. **IME12:** Added an account recovery feature, providing users with a secure method to regain access to their accounts.
+
+### Changes (1)
+1. **IMC01:** Streamlined the user experience by automatically logging in users upon successful account verification.
+
+### Removed (1)
+1. **IMR01:** Removed redundant icons from the ticker to enhance site performance and reduce the Document Object Model (DOM) size, continuing the effort from the previous update.
+
+### Fixed (2)
+1. **IMF01:** Corrected a navigation issue in the comments page breadcrumb, ensuring the accurate display of the previously visited country.
+2. **IMF02:** Addressed several usability issues within the comments section to enhance user interaction and feedback.
+
+### Security (2)
+1. **IMS01:** Upgraded the minimum supported Transport Layer Security (TLS) version to 1.2, enhancing the encryption standard for user data protection.
+2. **IMS02:** Remedied a high-severity Cross-Site Scripting (XSS) vulnerability in the comments section, fortifying the website against malicious script injections.
+
 
 ---
 
