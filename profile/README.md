@@ -1,28 +1,40 @@
-# Infomundi
-
 <div align="center">
 
-![Infomundi Logo](https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/infomundi-nobg.webp)
+![Infomundi Logo](https://raw.githubusercontent.com/Infomundi-Project/.github/refs/heads/main/logo-wordmark-on-white.svg)
 
 </div>
 
 ## Overview
 
-Infomundi is a news aggregation and social platform that collects stories from publishers worldwide, processes them with AI-powered summarization, and provides a social layer for users to engage with global news. The platform organizes content by geographic regions and categories, making it easy to discover news from any part of the world.
+[Infomundi](https://infomundi.net/) is a news aggregation and social platform built to simplify access to global information. We collect stories from well over 10,000 publishers worldwide, process them with AI for summaries, sentiment analysis and keyword extraction, then cluster related stories so you can see how the same event is reported across different countries and sources.
 
-### Key Features
+Beyond news, Infomundi is a community. Discuss stories with other readers, create and join groups with text and voice channels, share your own posts, and build a profile that reflects your interests. Our leveling system rewards active participation, turning informed reading into an engaging experience.
 
-- **📰 Global News Aggregation**: Automatically fetches and processes news from publishers across multiple countries and categories
-- **🤖 AI-Powered Summaries**: AI integration for intelligent story summarization
-- **🌍 Geographic Organization**: Browse news by region, country, and category
+## Key Features
+
+- **📰 Global News Aggregation**: Automatically fetches and processes news across multiple countries and categories
+- **🤖 AI-Powered Summaries**: LLM integration for intelligent story summarization
+- **🦁 Maximus AI Assistant**: Conversational news analyst on individual stories, clusters, and country pages
+- **🌍 Geographic Organization**: Browse news by region, country, topics and more
 - **📊 Story Clustering & Sentiment Analysis**: Groups related stories and analyzes sentiment across publishers
+- **🔴 Breaking News Ticker**: Detects fast-developing clusters, surfaces them in a live ticker below the masthead and pushes in-app + email notifications to opted-in users
 - **🔊 Text-to-Speech**: Audio playback for story content
-- **👥 Social Features**: User profiles, friendships, comments, reactions, and notifications
-- **💬 Real-Time Chat**: WebSocket-powered end to end encrypted chat system for live discussions
+- **🔎 Full-Text Search**: Near-instant story search across millions of stories
+- **✍️ Article Submission**: Plus/Premium users can submit articles from registered publisher domains
+- **👥 Social Features**: User profiles, friendships, comments, reactions, notifications and more
+- **💬 Real-Time Chat**: Chat system for live discussions
+- **👥 Groups & Channels**: Create communities with text channels, voice chat, roles, and moderation
+- **📝 Community Posts**: User-generated posts with images, reactions, and comments
+- **🎙️ Voice Chat**: Voice channels within groups
 - **🏆 Leveling & XP System**: Gamified user progression based on platform activity
+- **💳 Subscription Tiers**: Free / Plus / Premium tiers with daily quotas on AI features
+- **🔐 Security-First**: AES-GCM email encryption, Argon2id password hashing, CSRF protection, rate limiting
+- **🌐 Backend i18n**: Translated flash messages, and emails to the recipient's preferred language (EN / PT today)
 - **🔑 2FA Support**: Both TOTP (authenticator apps) and email-based two-factor authentication
-- **📈 Analytics**: Site statistics, story views, trending content
+- **🖥️ Known-Device Tracking**: Device fingerprint cookies, new-device email verification, session-trust window
 - **🎨 Customizable Profiles**: Avatars, banners, wallpapers, privacy settings, and profile descriptions
+- **🔍 Keyword Extraction**: Algorithm for automatic story tagging
+- **🚀 Performance**: Redis caching, optimized database queries, AVIF image format
 
 ## Security Features
 
