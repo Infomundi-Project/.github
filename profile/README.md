@@ -37,7 +37,11 @@ Destaques:
 
 No ar em [infomundi.net](https://infomundi.net/).
 
-#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-light.svg" width="20" height="20" alt=""></picture> Mundi Workspace
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-workspace-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-workspace-wordmark-light.svg" height="60" alt="Mundi Workspace"></picture>
+
+</div>
 
 O Mundi Workspace é a nossa plataforma de operações empresariais. Reúne o trabalho diário de uma empresa em um site único com login unificado: app Comercial, app de Suprimentos, gerador de contratos e painel de projetos estratégicos. Feito para rodar em qualquer domínio com Docker, do localhost à produção, com TLS automático.
 
@@ -76,7 +80,11 @@ Highlights:
 
 Live at [infomundi.net](https://infomundi.net/).
 
-#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-light.svg" width="20" height="20" alt=""></picture> Mundi Workspace
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-workspace-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-workspace-wordmark-light.svg" height="60" alt="Mundi Workspace"></picture>
+
+</div>
 
 Mundi Workspace is our business operations platform. It brings a company's daily work into a single site with unified login: a Commercial app, a Procurement app, a contract generator and a strategic projects panel. Built to run on any domain with Docker, from localhost to production, with automatic TLS.
 
