@@ -18,22 +18,22 @@ A Mundi é uma startup de software fundada no Recife, Pernambuco. Construímos p
 
 ### Produtos
 
-#### 📰 Infomundi
+#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/newspaper-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/newspaper-light.svg" width="20" height="20" alt=""></picture> Infomundi
 
 O [Infomundi](https://infomundi.net/) é uma plataforma de agregação de notícias e rede social criada para simplificar o acesso à informação global. Coleta notícias de mais de 10.000 veículos no mundo inteiro, processa tudo com IA para gerar resumos, análise de sentimento e extração de palavras-chave, e agrupa coberturas relacionadas para mostrar como o mesmo evento é noticiado em diferentes países e fontes.
 
 Destaques:
 
-- **🤖 Análise com IA**: resumos, sentimento, palavras-chave e clustering de notícias em escala
-- **🦁 Maximus**: analista de notícias conversacional disponível em matérias, clusters e páginas de países
-- **🔴 Ticker de últimas notícias** com notificações no app e por e-mail para eventos em rápido desenvolvimento
-- **👥 Camada social**: perfis, comentários, posts da comunidade e grupos com canais de texto e voz
-- **🔐 Segurança em primeiro lugar**: criptografia AES-GCM em repouso, hashing Argon2id, 2FA, rate limiting e WAF
-- **💳 Planos Free / Plus / Premium** com cotas diárias nos recursos de IA
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/brain-circuit-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/brain-circuit-light.svg" width="16" height="16" alt=""></picture> **Análise com IA**: resumos, sentimento, palavras-chave e clustering de notícias em escala
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/message-circle-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/message-circle-light.svg" width="16" height="16" alt=""></picture> **Maximus**: analista de notícias conversacional disponível em matérias, clusters e páginas de países
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/radio-tower-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/radio-tower-light.svg" width="16" height="16" alt=""></picture> **Ticker de últimas notícias** com notificações no app e por e-mail para eventos em rápido desenvolvimento
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/users-round-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/users-round-light.svg" width="16" height="16" alt=""></picture> **Camada social**: perfis, comentários, posts da comunidade e grupos com canais de texto e voz
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-light.svg" width="16" height="16" alt=""></picture> **Segurança em primeiro lugar**: criptografia AES-GCM em repouso, hashing Argon2id, 2FA, rate limiting e WAF
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/credit-card-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/credit-card-light.svg" width="16" height="16" alt=""></picture> **Planos Free / Plus / Premium** com cotas diárias nos recursos de IA
 
 No ar em [infomundi.net](https://infomundi.net/).
 
-#### 🗂️ Mundi Workspace
+#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-light.svg" width="20" height="20" alt=""></picture> Mundi Workspace
 
 O Mundi Workspace é a nossa plataforma de operações empresariais. Reúne o trabalho diário de uma empresa em um site único com login unificado: app Comercial, app de Suprimentos, gerador de contratos e painel de projetos estratégicos. Feito para rodar em qualquer domínio com Docker, do localhost à produção, com TLS automático.
 
@@ -53,22 +53,22 @@ Mundi is a software startup founded in Recife, Pernambuco, Brazil. We build prod
 
 ### Products
 
-#### 📰 Infomundi
+#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/newspaper-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/newspaper-light.svg" width="20" height="20" alt=""></picture> Infomundi
 
 [Infomundi](https://infomundi.net/) is a news aggregation and social platform built to simplify access to global information. It collects stories from well over 10,000 publishers worldwide, processes them with AI for summaries, sentiment analysis and keyword extraction, then clusters related coverage so you can see how the same event is reported across countries and sources.
 
 Highlights:
 
-- **🤖 AI-powered analysis**: summaries, sentiment, keyword extraction and story clustering at scale
-- **🦁 Maximus**: a conversational news analyst available on stories, clusters and country pages
-- **🔴 Breaking news ticker** with in-app and email notifications for fast-developing events
-- **👥 Social layer**: profiles, comments, community posts, and groups with text and voice channels
-- **🔐 Security-first**: AES-GCM encryption at rest, Argon2id hashing, 2FA, rate limiting and WAF
-- **💳 Free / Plus / Premium** tiers with daily quotas on AI features
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/brain-circuit-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/brain-circuit-light.svg" width="16" height="16" alt=""></picture> **AI-powered analysis**: summaries, sentiment, keyword extraction and story clustering at scale
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/message-circle-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/message-circle-light.svg" width="16" height="16" alt=""></picture> **Maximus**: a conversational news analyst available on stories, clusters and country pages
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/radio-tower-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/radio-tower-light.svg" width="16" height="16" alt=""></picture> **Breaking news ticker** with in-app and email notifications for fast-developing events
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/users-round-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/users-round-light.svg" width="16" height="16" alt=""></picture> **Social layer**: profiles, comments, community posts, and groups with text and voice channels
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-light.svg" width="16" height="16" alt=""></picture> **Security-first**: AES-GCM encryption at rest, Argon2id hashing, 2FA, rate limiting and WAF
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/credit-card-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/credit-card-light.svg" width="16" height="16" alt=""></picture> **Free / Plus / Premium** tiers with daily quotas on AI features
 
 Live at [infomundi.net](https://infomundi.net/).
 
-#### 🗂️ Mundi Workspace
+#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-light.svg" width="20" height="20" alt=""></picture> Mundi Workspace
 
 Mundi Workspace is our business operations platform. It brings a company's daily work into a single site with unified login: a Commercial app, a Procurement app, a contract generator and a strategic projects panel. Built to run on any domain with Docker, from localhost to production, with automatic TLS.
 
