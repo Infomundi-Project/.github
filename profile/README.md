@@ -18,7 +18,11 @@ A Mundi é uma startup de software fundada no Recife, Pernambuco. Construímos p
 
 ### Produtos
 
-#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-light.svg" height="24" alt="Infomundi"></picture>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-light.svg" height="60" alt="Infomundi"></picture>
+
+</div>
 
 O [Infomundi](https://infomundi.net/) é uma plataforma de agregação de notícias e rede social criada para simplificar o acesso à informação global. Coleta notícias de mais de 10.000 veículos no mundo inteiro, processa tudo com IA para gerar resumos, análise de sentimento e extração de palavras-chave, e agrupa coberturas relacionadas para mostrar como o mesmo evento é noticiado em diferentes países e fontes.
 
@@ -53,7 +57,11 @@ Mundi is a software startup founded in Recife, Pernambuco, Brazil. We build prod
 
 ### Products
 
-#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-light.svg" height="24" alt="Infomundi"></picture>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/infomundi-wordmark-light.svg" height="60" alt="Infomundi"></picture>
+
+</div>
 
 [Infomundi](https://infomundi.net/) is a news aggregation and social platform built to simplify access to global information. It collects stories from well over 10,000 publishers worldwide, processes them with AI for summaries, sentiment analysis and keyword extraction, then clusters related coverage so you can see how the same event is reported across countries and sources.
 
