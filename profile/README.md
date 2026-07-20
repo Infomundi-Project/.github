@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-light.svg" height="175" alt="Mundi"></picture>
 
-**Leia em outro idioma:** <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-us.svg" height="14" alt=""> [English](README.en.md)
+**Read in another language:** <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-us.svg" height="14" alt=""> [English](README.en.md)
 
 </div>
 
