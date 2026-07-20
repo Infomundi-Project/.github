@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-light.svg" height="175" alt="Mundi"></picture>
 
-[About us](#about-us) · [Products](#products) · [How we build](#how-we-build)
+[About us](#about-us) · [How we build](#how-we-build) · [Products](#products)
 
 **Read in another language:** <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-br.svg" height="14" alt=""> [Português (Brasil)](README.md)
 
@@ -15,6 +15,12 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/building-2-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/building-2-light.svg" width="22" height="22" alt=""></picture> About us
 
 Mundi is a software startup founded in Recife, Pernambuco, Brazil. We build products that organize information for people and companies: global news intelligence with Infomundi and day-to-day business operations with Mundi Workspace. The company is currently in pre-incubation at Porto Digital, one of the largest technology parks in Latin America.
+
+<a id="how-we-build"></a>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/code-xml-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/code-xml-light.svg" width="22" height="22" alt=""></picture> How we build
+
+Small team, production mindset. Python on the backend (Flask and FastAPI), MySQL and Redis, Docker everywhere, CI/CD with GitHub Actions, and security treated as a feature: encrypted data at rest, hardened authentication and defense in depth on every service.
 
 <a id="products"></a>
 
@@ -48,12 +54,6 @@ Live at [infomundi.net](https://infomundi.net/).
 </div>
 
 Mundi Workspace is our business operations platform. It brings a company's daily work into a single site with unified login: a Commercial app, a Procurement app, a contract generator and a strategic projects panel. Built to run on any domain with Docker, from localhost to production, with automatic TLS.
-
-<a id="how-we-build"></a>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/code-xml-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/code-xml-light.svg" width="22" height="22" alt=""></picture> How we build
-
-Small team, production mindset. Python on the backend (Flask and FastAPI), MySQL and Redis, Docker everywhere, CI/CD with GitHub Actions, and security treated as a feature: encrypted data at rest, hardened authentication and defense in depth on every service.
 
 ---
 
