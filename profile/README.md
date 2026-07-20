@@ -51,6 +51,15 @@ No ar em [infomundi.net](https://infomundi.net/).
 
 O Mundi Workspace é a nossa plataforma de operações empresariais. Reúne o trabalho diário de uma empresa em um site único com login unificado: app Comercial, app de Suprimentos, gerador de contratos e painel de projetos estratégicos. Feito para rodar em qualquer domínio com Docker, do localhost à produção, com TLS automático.
 
+Destaques:
+
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-light.svg" width="16" height="16" alt=""></picture> **Apps em um só lugar**: Comercial (CRM), Suprimentos, Gerador de Contratos e Projetos Estratégicos servidos como um site único
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/key-round-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/key-round-light.svg" width="16" height="16" alt=""></picture> **Login unificado**: uma conta vale em todos os apps, com SSO Microsoft e fila de aprovação de cadastro pelo administrador
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/file-pen-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/file-pen-light.svg" width="16" height="16" alt=""></picture> **Gerador de contratos**: modelos por modalidade e holding, com propostas e notas fiscais do fornecedor no mesmo fluxo
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/plug-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/plug-light.svg" width="16" height="16" alt=""></picture> **Integrações corporativas**: mestre de dados SAP por importação de planilha, Outlook e calendário via Microsoft Graph
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-light.svg" width="16" height="16" alt=""></picture> **Segurança**: PII cifrada em repouso com AES-256-GCM, auditoria de mutações, HSTS e CSP, cookies HttpOnly e Secure
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/container-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/container-light.svg" width="16" height="16" alt=""></picture> **Roda em qualquer domínio**: Docker e Caddy com subdomínios sem portas expostas e TLS automático via Let's Encrypt
+
 ---
 
 <div align="center">

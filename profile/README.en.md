@@ -51,6 +51,15 @@ Live at [infomundi.net](https://infomundi.net/).
 
 Mundi Workspace is our business operations platform. It brings a company's daily work into a single site with unified login: a Commercial app, a Procurement app, a contract generator and a strategic projects panel. Built to run on any domain with Docker, from localhost to production, with automatic TLS.
 
+Highlights:
+
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/layout-grid-light.svg" width="16" height="16" alt=""></picture> **Apps in one place**: Commercial (CRM), Procurement, Contract Generator and Strategic Projects served as a single site
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/key-round-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/key-round-light.svg" width="16" height="16" alt=""></picture> **Unified login**: one account works across every app, with Microsoft SSO and an admin approval queue for sign-ups
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/file-pen-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/file-pen-light.svg" width="16" height="16" alt=""></picture> **Contract generator**: templates per contract type and holding, with supplier quotes and invoices in the same flow
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/plug-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/plug-light.svg" width="16" height="16" alt=""></picture> **Enterprise integrations**: SAP master data via spreadsheet import, Outlook and calendar through Microsoft Graph
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/shield-check-light.svg" width="16" height="16" alt=""></picture> **Security**: PII encrypted at rest with AES-256-GCM, audited mutations, HSTS and CSP, HttpOnly and Secure cookies
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/container-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/container-light.svg" width="16" height="16" alt=""></picture> **Runs on any domain**: Docker and Caddy with port-free subdomains and automatic TLS via Let's Encrypt
+
 ---
 
 <div align="center">
