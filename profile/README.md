@@ -1,8 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-light.svg" height="80" alt="Mundi"></picture>
-
-**Startup de tecnologia do Recife, Brasil**
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-light.svg" height="130" alt="Mundi"></picture>
 
 [Sobre nós](#sobre-nos) · [Produtos](#produtos) · [Como construímos](#como-construimos)
 
