@@ -2,13 +2,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-wordmark-light.svg" height="175" alt="Mundi"></picture>
 
-[About us](#about-us) · [How we build](#how-we-build) · [Products](#products)
-
 **Read in another language:** <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-br.svg" height="14" alt=""> [Português (Brasil)](README.md)
 
 </div>
-
----
 
 <a id="about-us"></a>
 
