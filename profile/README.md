@@ -1,14 +1,14 @@
 <div align="center">
 
-![Infomundi Logo](https://raw.githubusercontent.com/Infomundi-Project/.github/refs/heads/main/logo-wordmark-on-white.svg)
+![Mundi Logo](https://raw.githubusercontent.com/Infomundi-Project/.github/refs/heads/main/logo-wordmark-on-white.svg)
 
 </div>
 
 ## Overview
 
-[Infomundi](https://infomundi.net/) is a news aggregation and social platform built to simplify access to global information. We collect stories from well over 10,000 publishers worldwide, process them with AI for summaries, sentiment analysis and keyword extraction, then cluster related stories so you can see how the same event is reported across different countries and sources.
+[Mundi](https://infomundi.net/) is a news aggregation and social platform built to simplify access to global information. We collect stories from well over 10,000 publishers worldwide, process them with AI for summaries, sentiment analysis and keyword extraction, then cluster related stories so you can see how the same event is reported across different countries and sources.
 
-Beyond news, Infomundi is a community. Discuss stories with other readers, create and join groups with text and voice channels, share your own posts, and build a profile that reflects your interests. Our leveling system rewards active participation, turning informed reading into an engaging experience.
+Beyond news, Mundi is a community. Discuss stories with other readers, create and join groups with text and voice channels, share your own posts, and build a profile that reflects your interests. Our leveling system rewards active participation, turning informed reading into an engaging experience.
 
 ## Key Features
 
@@ -38,7 +38,7 @@ Beyond news, Infomundi is a community. Discuss stories with other readers, creat
 
 ## Security Features
 
-Infomundi implements defense-in-depth security:
+Mundi implements defense-in-depth security:
 
 - **Email Privacy**: Emails always encrypted at rest with AES-GCM, searchable via HMAC fingerprints
 - **Password Security**: Argon2id hashing with high cost parameters
@@ -54,6 +54,6 @@ Infomundi implements defense-in-depth security:
 
 <div align="center">
 
-**Made with ❤️ by the Infomundi team**
+**Made with ❤️ by the Mundi team**
 
 </div>
