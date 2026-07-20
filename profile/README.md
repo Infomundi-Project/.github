@@ -4,13 +4,13 @@
 
 **Startup de tecnologia do Recife, Brasil · Technology startup from Recife, Brazil**
 
-[🇧🇷 Português](#portugues) · [🇺🇸 English](#english)
+[<img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-br.svg" width="20" alt="pt-BR"> Português](#portugues) · [<img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-us.svg" width="20" alt="en-US"> English](#english)
 
 </div>
 
 <a id="portugues"></a>
 
-## 🇧🇷 Português
+## <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-br.svg" height="21" alt=""> Português
 
 ### Sobre nós
 
@@ -49,7 +49,7 @@ Time enxuto, mentalidade de produção. Python no backend (Flask e FastAPI), MyS
 
 <a id="english"></a>
 
-## 🇺🇸 English
+## <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/flag-us.svg" height="21" alt=""> English
 
 ### About us
 
