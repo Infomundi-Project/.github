@@ -37,6 +37,8 @@ Destaques:
 
 No ar em [infomundi.net](https://infomundi.net/).
 
+---
+
 <div align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-workspace-wordmark-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/mundi-workspace-wordmark-light.svg" height="60" alt="Mundi Workspace"></picture>
@@ -48,8 +50,6 @@ O Mundi Workspace é a nossa plataforma de operações empresariais. Reúne o tr
 ### Como construímos
 
 Time enxuto, mentalidade de produção. Python no backend (Flask e FastAPI), MySQL e Redis, Docker em tudo, CI/CD com GitHub Actions e segurança tratada como funcionalidade: dados criptografados em repouso, autenticação reforçada e defesa em profundidade em cada serviço.
-
----
 
 <a id="english"></a>
 
@@ -79,6 +79,8 @@ Highlights:
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/credit-card-dark.svg"><img src="https://raw.githubusercontent.com/Infomundi-Project/.github/main/icons/credit-card-light.svg" width="16" height="16" alt=""></picture> **Free / Plus / Premium** tiers with daily quotas on AI features
 
 Live at [infomundi.net](https://infomundi.net/).
+
+---
 
 <div align="center">
 
