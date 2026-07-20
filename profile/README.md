@@ -64,7 +64,7 @@ Destaques:
 
 <div align="center">
 
-**Feito com ❤️ no Recife, Brasil**
+**Feito com ❤️ pela equipe da Mundi, no Recife, Brasil**
 
 [infomundi.net](https://infomundi.net/) · [contact@infomundi.net](mailto:contact@infomundi.net)
 
